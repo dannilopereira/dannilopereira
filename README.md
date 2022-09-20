@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com o geoprocessamento
 - 🌱 Estudando linguagens, HTML 5 e Python
 - 💬 Ask me about ...
-- 📫 Contate-me no email: dannilo180Egmail.com
+- 📫 Contate-me no email: dannilo180@gmail.com
 
 <div align="center">
   <a href="https://github.com/dannilopereira">
